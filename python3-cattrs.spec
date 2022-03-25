@@ -6,7 +6,7 @@ Summary:	Composable complex class support for attrs
 Summary(pl.UTF-8):	Obsługa składanych klas złożonych dla attrs
 Name:		python3-cattrs
 Version:	1.10.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/cattrs/
